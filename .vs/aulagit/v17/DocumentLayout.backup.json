@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E1F5F1E-6FB0-4151-A84F-337004B31925}|aulagit\\aulagit.csproj|c:\\users\\127234\\documents\\projetoteste\\aulagit\\aulagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E1F5F1E-6FB0-4151-A84F-337004B31925}|aulagit\\aulagit.csproj|solutionrelative:aulagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1F5F1E-6FB0-4151-A84F-337004B31925}|aulagit\\aulagit.csproj|c:\\users\\127234\\documents\\projetoteste\\aulagit\\aulagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1F5F1E-6FB0-4151-A84F-337004B31925}|aulagit\\aulagit.csproj|solutionrelative:aulagit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\127234\\Documents\\projetoteste\\aulagit\\aulagit\\Form1.cs",
+              "RelativeDocumentMoniker": "aulagit\\Form1.cs",
+              "ToolTip": "C:\\Users\\127234\\Documents\\projetoteste\\aulagit\\aulagit\\Form1.cs",
+              "RelativeToolTip": "aulagit\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:50:32.398Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

@@ -19,7 +19,10 @@ namespace aulagit
 
         private void Criarconta_click(object sender, EventArgs e)
         {
+           CriarConta f1 = new CriarConta();
+            f1.Show();
 
+            this.Close();
         }
     }
 }
